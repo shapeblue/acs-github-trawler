@@ -1,0 +1,13 @@
+{
+	"--gh_token":"*******",
+	"--prev_release_commit_sha":"6f96b3b2b391a9b7d085f76bcafa3989d9832b4e",
+	"--repo_name":"apache/cloudstack",
+	"--prev_release_ver":"4.14.0.0",
+	"--branch":"master",
+	"--prev_release_ver":"4.14.0.0",
+	"--new_release_ver":"4.15.0.0",
+	"--tmp_dir":"/tmp",
+	"--update_labels": "False",
+	"--output_file_name": "prs_report.rst",
+	"--required_tables":"['wip_features', 'merged_fixes', 'merged_features', 'dontknow', 'old_prs']"
+}
